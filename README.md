@@ -1,8 +1,11 @@
 ## Referencing with Latex
 ---
 This repository is a collection of the referencing rules with latex
+<br>
 Some skills of paper make-ups are also included
+<br>
 `--` denotes `\begin{document}` in latex
+<br>
 `/` denotes alternative instructions
 
 ---
